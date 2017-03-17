@@ -298,6 +298,7 @@ header {
 
 .works-step {
 	margin-bottom: 55px;
+	margin-right: 35px;
 }
 
 .works-step:last-of-type {
@@ -316,6 +317,11 @@ header {
 	font-size: 150%;
 	float: left;
 	margin-right: 20px;
+}
+
+.appsButtonRow {
+	text-align: center;
+	margin-top: 40px;
 }
 
 .button-app img {
